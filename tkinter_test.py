@@ -1,5 +1,5 @@
 def hello():
- print('Привет!')
+ print('Hello!')
 
 
 from tkinter import *
